@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaloJogo", "GaloJogo.csproj", "{927D346E-7593-4940-BFC6-0B34916DD53A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaloGame", "GaloGame.csproj", "{1E633719-1D07-46D5-8957-91B1D82C41BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{927D346E-7593-4940-BFC6-0B34916DD53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{927D346E-7593-4940-BFC6-0B34916DD53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{927D346E-7593-4940-BFC6-0B34916DD53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{927D346E-7593-4940-BFC6-0B34916DD53A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E633719-1D07-46D5-8957-91B1D82C41BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E633719-1D07-46D5-8957-91B1D82C41BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E633719-1D07-46D5-8957-91B1D82C41BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E633719-1D07-46D5-8957-91B1D82C41BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {294E066D-4959-4329-A5D4-7A2F6BC12740}
+		SolutionGuid = {056E195C-42B4-472D-ABB8-80F56E405B02}
 	EndGlobalSection
 EndGlobal

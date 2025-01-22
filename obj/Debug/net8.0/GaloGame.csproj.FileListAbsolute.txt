@@ -1,0 +1,14 @@
+C:\Shw\GaloGame\bin\Debug\net8.0\GaloGame.exe
+C:\Shw\GaloGame\bin\Debug\net8.0\GaloGame.deps.json
+C:\Shw\GaloGame\bin\Debug\net8.0\GaloGame.runtimeconfig.json
+C:\Shw\GaloGame\bin\Debug\net8.0\GaloGame.dll
+C:\Shw\GaloGame\bin\Debug\net8.0\GaloGame.pdb
+C:\Shw\GaloGame\obj\Debug\net8.0\GaloGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shw\GaloGame\obj\Debug\net8.0\GaloGame.AssemblyInfoInputs.cache
+C:\Shw\GaloGame\obj\Debug\net8.0\GaloGame.AssemblyInfo.cs
+C:\Shw\GaloGame\obj\Debug\net8.0\GaloGame.csproj.CoreCompileInputs.cache
+C:\Shw\GaloGame\obj\Debug\net8.0\GaloGame.dll
+C:\Shw\GaloGame\obj\Debug\net8.0\refint\GaloGame.dll
+C:\Shw\GaloGame\obj\Debug\net8.0\GaloGame.pdb
+C:\Shw\GaloGame\obj\Debug\net8.0\GaloGame.genruntimeconfig.cache
+C:\Shw\GaloGame\obj\Debug\net8.0\ref\GaloGame.dll
