@@ -10,7 +10,7 @@ internal class Menu
             ConsoleColor.Blue.ToString(),
             ConsoleColor.Magenta.ToString()
         };
-    private string MenuAscii = @"
+    private const string MenuAscii = @"
    _____       _          _____                      
   / ____|     | |        / ____|                     
  | |  __  __ _| | ___   | |  __  __ _ _ __ ___   ___ 
@@ -40,7 +40,7 @@ internal class Menu
             Console.Write($"[{progress}{remaining}] {i * 2}%");
 
             // Atraso para simular o progresso
-            Thread.Sleep(100);
+            Thread.Sleep(40);
         }
         Console.ForegroundColor = ConsoleColor.White;
     }

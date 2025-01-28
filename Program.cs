@@ -1,6 +1,6 @@
 ﻿class Program()
 {
-    static void Main(string[] args)
+     public static void Main()
     {
         Menu menu = new Menu();
         menu.Desenhar();
